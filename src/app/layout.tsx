@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Haywood Analytics",
     description:
-      "Know your best customers. Bring them back. Built for independent WNC businesses still rebuilding after Helene.",
+      "Know your best customers. Bring them back. Built for independent WNC businesses.",
     url: "https://haywood-analytics.vercel.app",
     siteName: "Haywood Analytics",
     locale: "en_US",

@@ -148,8 +148,7 @@ export default function Home() {
           <p className="text-lg text-[#1a1410] opacity-65 mb-10 leading-relaxed max-w-[520px]">
             We turn your Square exports, website traffic, and loyalty data into
             a clear picture of who your best customers are — and exactly what to
-            do about it. Built for independent WNC businesses still rebuilding
-            after Helene.
+            do about it. Built for independent WNC businesses.
           </p>
           <a
             href="mailto:john@peachykeandev.com"
