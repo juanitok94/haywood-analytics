@@ -1,0 +1,30 @@
+{
+  "client": "Sample — contact us for your vertical",
+  "vertical": "retail",
+  "period": "12 months",
+  "totalCustomers": 847,
+  "revenueFromTop20": 78,
+  "atRiskRevenue": 24000,
+  "segments": [
+    {
+      "name": "VIP",
+      "pct": 22,
+      "insight": "22% of base · 78% of revenue",
+      "action": "Reward with early access or exclusive offer"
+    },
+    {
+      "name": "Nurture",
+      "pct": 45,
+      "insight": "45% of base · highest growth potential",
+      "action": "Targeted loyalty push to move toward VIP"
+    },
+    {
+      "name": "Re-engage",
+      "pct": 33,
+      "insight": "33% of base · $24k recoverable",
+      "action": "Win-back campaign before permanent lapse"
+    }
+  ],
+  "vipMultiplier": 4.2,
+  "fpo": true
+}
